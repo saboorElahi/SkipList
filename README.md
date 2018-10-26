@@ -1,2 +1,2 @@
 # SkipList
-This repository contains code in C++ for skip list.
+This repository contains code for skip list implemented in C++.
